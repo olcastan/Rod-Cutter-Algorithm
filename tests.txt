@@ -1,0 +1,19 @@
+RodCutter Tests:
+x Test for a rod of length 0
+x Test for a rod of length 1
+x Test for a rod of length 2
+x Test for a rod of length 3
+x Test for a rod of length 5
+x Test for a rod of length 10
+x Test for a rod of length 11
+x Test for a rod of length 14
+
+OptimalRodCutter Tests:
+x Test for a rod of length 1
+x Test for a rod of length 2
+x Test for a rod of length 3
+x Test for a rod of length 5
+x Test for a rod of length 10
+x Test for a rod of length 11
+x Test for a rod of length 14
+
